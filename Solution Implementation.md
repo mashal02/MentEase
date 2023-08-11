@@ -1,2 +1,2 @@
 This is where we describe our prototype - how we're building it, the decisions we're making, the challenges we're having, etc.
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyyIGoy5OPcZ5vuV3dvpSsW%2FMentEase-MLSA-Project%3Ftype%3Ddesign%26node-id%3D69-2342%26t%3D8w0BC7s2Dbsgtl9j-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D69%253A93%26mode%3Ddesign" allowfullscreen></iframe>
+<https://www.figma.com/file/yyIGoy5OPcZ5vuV3dvpSsW/MentEase-MLSA-Project?type=design&node-id=69%3A1119&mode=design&t=DTo6uFiWIzjwKorD-1>
