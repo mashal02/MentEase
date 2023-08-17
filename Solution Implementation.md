@@ -5,6 +5,4 @@ This is where we describe our prototype - how we're building it, the decisions w
 [UI/UX of Mentease](https://www.figma.com/file/yyIGoy5OPcZ5vuV3dvpSsW/MentEase-MLSA-Project?type=design&node-id=69%3A1119&mode=design&t=DTo6uFiWIzjwKorD-1)
 
 ### Overview
-
-![1 Home and co Desktop view](https://github.com/mashal02/MentEase/assets/52314615/1c477c7b-be64-41de-a411-311d18e9e6f4)
-
+![1 Home and co Desktop view](https://github.com/mashal02/MentEase/assets/52314615/610c9904-abc4-492b-993b-2cd1d9aba196)
